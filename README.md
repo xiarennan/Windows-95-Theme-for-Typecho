@@ -4,6 +4,8 @@
 
 最近将其移植到了 Typecho，样式改为了自己喜爱的，因精力有限，提交问题后修补可能会很慢。
 
+## 原来的账号邮箱不能用了，重新弄个仓库吧。
+
 ## 安装 & 升级
 
 下载压缩包并解压，将解压后的文件夹上传至主题目录即可。
@@ -12,7 +14,7 @@
 
 ### 当前最新版本 105
 
-**请前往 [Releases](https://github.com/vitoland/Windows-95-Theme-for-Typecho/releases) 页面下载最新版，不要直接下载项目，当前项目为开发代码，不适合日常使用。**
+**请前往 [Releases]([https://github.com/xiarennan/Windows-95-Theme-for-Typecho/releases) 页面下载最新版，不要直接下载项目，当前项目为开发代码，不适合日常使用。**
 
 ## 更新日志
 
